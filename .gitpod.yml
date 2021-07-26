@@ -1,0 +1,5 @@
+image: fpco/stack-build:lts-14.20
+
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: stack setup
